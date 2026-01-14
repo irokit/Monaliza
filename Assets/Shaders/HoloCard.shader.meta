@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 5e2865c851d153842ba201b78a8b8eca
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _mainTexture: {fileID: 2800000, guid: eb92b25f894530d4382508a58b9de55e, type: 3}
+  - _rampTex: {fileID: 2800000, guid: 60f68cd59f237e34582c3338f0333b75, type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
